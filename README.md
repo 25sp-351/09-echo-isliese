@@ -11,10 +11,10 @@ The server:
 ---
 
 ## Project Structure
-09-ECHO-ISLIESE/
-├── server.py              # Main server file (accept connections and spawn threads)
-├── connection_handler.py  # Handle individual client connections
-├── utils.py                # Parse command-line arguments
+09-ECHO-ISLIESE/  <br>
+├── server.py              # Main server file (accept connections and spawn threads) <br>
+├── connection_handler.py  # Handle individual client connections <br>
+├── utils.py                # Parse command-line arguments <br>
 
 ---
 
